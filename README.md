@@ -85,7 +85,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
+This project focuses on constructing and optimizing a five-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
 
 ## Project Overview
 This notebook demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
