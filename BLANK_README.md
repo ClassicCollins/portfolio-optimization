@@ -182,10 +182,9 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [x] Add Changelog
+- [x] Add back to top links
+- [ ] Build a ten asset portfolio
 
 See the [open issues](https://github.com/ClassicCollins/portfolio-optimization/issues) for a full list of proposed features (and known issues).
 
@@ -240,10 +239,15 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Python](https://www.python.org)
+* [Img Shields](https://shields.io)
+* [GitHub Pages](https://pages.github.com)
+* [yfinace](https://pypi.org/project/yfinance)
+* [Choose an Open Source License](ttps://choosealicense.com)
+* [othneildrew](https://github.com/othneildrew/Best-README-Template)
+* [Google Colab](https://colab.research.google.com/)
 
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
