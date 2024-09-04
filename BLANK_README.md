@@ -16,18 +16,18 @@
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
+*** https://www.markdownguide.org/basic-syntax/#reference-style-links 
 -->
 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Twitter][twitter-shield]][twitter-url]
+
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![Python][Python-logo]][Python-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Twitter][twitter-shield]][twitter-url]
 
 
 <!-- PROJECT LOGO -->
@@ -256,7 +256,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
-[twitter-shield]: https://img.shields.io/badge/-X-black.svg?style=for-the-badge&logo=x&colorB=555
+[twitter-shield]: https://img.shields.io/badge/-Twitter-black.svg?style=for-the-badge&logo=x&colorB=555
 [twitter-url]: https://x.com/ClassicCollins2
 [traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/traffic
