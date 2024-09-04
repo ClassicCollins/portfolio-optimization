@@ -21,7 +21,7 @@
 
 
 [![Contributors][contributors-shield]][contributors-url]
-[![Twitter][twitter-shield]][twitteer-url]
+[![Twitter][twitter-shield]][twitter-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
