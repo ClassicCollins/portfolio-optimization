@@ -40,7 +40,7 @@
 <h3 align="center">Portfolio-Optimization and Asset Allocation</h3>
 
   <p align="center">
-    An awesome projects to kick start your Portfolio Management!
+    An awesome projects to kick start your journey in Asset Allocation and  Portfolio Optimization!
     <br />
     <a href="https://github.com/ClassicCollins/portfolio-optimization"><strong>Explore the docs »</strong></a>
     <br />
