@@ -26,7 +26,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -68,7 +67,7 @@
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#Required Packages">Required Packages</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
