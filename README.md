@@ -139,6 +139,8 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/ClassicCollins/portfolio-optimization.git
+cd portfolio-optimization
    ```
 3. Install NPM packages
    ```sh
@@ -146,11 +148,11 @@ _Below is an example of how you can instruct your audience on installing and set
    ```
 4. Enter your API in `config.js`
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   const API_KEY = '12345678910';
    ```
 5. Change git remote url to avoid accidental pushes to base project
    ```sh
-   git remote set-url origin github_username/repo_name
+   git remote set-url origin ClassicCollins/portfolio-optimization
    git remote -v # confirm the changes
    ```
 
@@ -224,7 +226,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.comClassicCollins/portfolio-optimization](https://github.com/ClassicCollins/portfolio-optimization)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
