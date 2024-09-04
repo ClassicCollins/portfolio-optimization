@@ -1,9 +1,9 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+<!-- Improved compatibility of back to top link: See: https://github.com/ClassicCollins/portfolio-optimization/back2top -->
 <a id="readme-top"></a>
 <!--
-*** Thanks for checking out portfolio-optimization project. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "improvement".
+*** Thanks for checking out portfolio-optimization and asset allocation project. 
+*** If you have a suggestion that would make this better, please fork the repo and 
+*** create a pull request or simply open an issue with the tag "enhancement".
 *** Don't forget to give the project a star!
 *** Thanks for checking out my project!
 -->
@@ -15,7 +15,7 @@
 *** I'm using markdown "reference style" links for readability.
 *** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
 *** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
+*** for stars-url, forks-url, etc.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links 
 -->
 
@@ -40,7 +40,7 @@
 <h3 align="center">Portfolio-Optimization and Asset Allocation</h3>
 
   <p align="center">
-    An awesome projects to kick start your journey in Asset Allocation and  Portfolio Optimization!
+    An awesome project to jumpstart your journey into Asset Allocation and Portfolio Optimization!
     <br />
     <a href="https://github.com/ClassicCollins/portfolio-optimization"><strong>Explore the docs »</strong></a>
     <br />
