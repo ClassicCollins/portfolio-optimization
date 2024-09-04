@@ -290,9 +290,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Pandas-url]: https://pandas.pydata.org/
 [NumPy-logo]: https://img.shields.io/badge/Numppy-20232A?style=for-the-badge&logo=numpy&logoColor=61DAFB
 [NumPy-url]: https://numpy.org/
-[Cvxpy-logo]: https://img.shields.io/badge/Cvxpy-20232A?style=for-the-badge&logo=cvxpy&logoColor=61DAFB
+[Cvxpy-logo]: https://img.shields.io/badge/Cvxpy-20232A?style=for-the-badge&logo=cvxpy&logoColor=white
 [Cvxpy-url]: https://www.cvxpy.org/
-[![Matplotlib][Matplotlib-logo]][Matplotlib-url]
-[![Seaborn][Seaborn-logo]][Seaborn-url]
-[![Pandas DataReader][Pandas-DataReader-logo]][Pandas-DataReader-url]
-[![yfinance][yfinance-logo]][yfinance-url]
+[Matplotlib-logo]: https://img.shields.io/badge/Matplotlib-20232A?style=for-the-badge&logo=matplotlib&logoColor=61DAFB
+[Matplotlib-url]: https://matplotlib.org/ 
+[Seaborn-logo]: https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=seaborn&logoColor=61DAFB
+[Seaborn-url]: https://seaborn.pydata.org/
+[Pandas-DataReader-logo]: https://img.shields.io/badge/Pandas-DataReader-20232A?style=for-the-badge&logo=Pandas-DataReader&logoColor=61DAFB
+[Pandas-DataReader-url]: https://pandas-datareader.readthedocs.io/en/latest/
+[yfinance-logo]: https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logo=yfinace&logoColor=61DAFB
+[yfinance-url]:  https://pypi.org/project/yfinance/
