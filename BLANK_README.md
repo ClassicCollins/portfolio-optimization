@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ClassicCollins/portfolio-optimization">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="150" height="80">
   </a>
 
 <h3 align="center">Portfolio-Optimization and Asset Allocation</h3>
@@ -88,7 +88,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
+This project focuses on constructing and optimizing a five-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
 
 ### Project Overview
 This notebook demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
@@ -110,7 +110,6 @@ Growth Stocks:
 * `Efficient Frontier Visualization` : Visualization of the efficient frontier, illustrating the trade-off between risk and return in the portfolio.
 `Asset Correlation Analysis` : Examination of the correlation between selected assets to understand the diversification benefits.
 
-: `ClassicCollins`, `portfolio-optimization`, `@ClassicCollins2`, `https://www.linkedin.com/in/collins-ugwuozor`, `email_client`, `ugwuozorcollinsemezie@gmail.com`, `Asset_allocation`, `This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -199,8 +198,8 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue 
+with the tag "enhancement". Don't forget to give the project a star! Thanks again!
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
