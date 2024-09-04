@@ -210,11 +210,7 @@ with the tag "enhancement". Don't forget to give the project a star! Thanks agai
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Top contributors:
 
-<a href="https://github.com/ClassicCollins/portfolio-optimization/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=ClassicCollins/portfolio-optimization" alt="contrib.rocks image" />
-</a>
 
 
 
