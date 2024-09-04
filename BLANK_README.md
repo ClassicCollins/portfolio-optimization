@@ -268,7 +268,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 [issues-url]: https://github.com/ClassicCollins/portfolio-optimization/issues
 [license-shield]: https://img.shields.io/github/license/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [license-url]: https://github.com/ClassicCollins/portfolio-optimization/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-white.svg?style=for-the-badge&logo=linkedin&colorB=blue
 [linkedin-url]: https://linkedin.com/in/collins-ugwuozor
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
