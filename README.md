@@ -239,6 +239,15 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- DISCLAIMER -->
+
+
+## Disclaimer 
+
+This portfolio optimization and asset allocation project is for educational purposes only and does not constitute investment advice. Always consult with a financial advisor before making any investment decisions.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
