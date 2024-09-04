@@ -115,6 +115,13 @@ Growth Stocks:
 ### Built With
 
 * [![Python][Python-logo]][Python-url]
+* [![Pandas][Pandas-logo]][Pandas-url]
+* [![NumPy][NumPy-logo]][NumPy-url]
+* [![Cvxpy][Cvxpy-logo]][Cvxpy-url]
+* [![Matplotlib][Matplotlib-logo]][Matplotlib-url]
+* [![Seaborn][Seaborn-logo]][Seaborn-url]
+* [![Pandas DataReader][Pandas-DataReader-logo]][Pandas-DataReader-url]
+* [![yfinance][yfinance-logo]][yfinance-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -279,3 +286,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [JQuery-url]: https://jquery.com
 [Python-logo]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
 [Python-url]: https://www.python.org/
+[Pandas-logo]: https://img.shields.io/badge/Pandas-20232A?style=for-the-badge&logo=pandas&logoColor=61DAFB
+[Pandas-url]: https://pandas.pydata.org/
+[NumPy-logo]: https://img.shields.io/badge/Numppy-20232A?style=for-the-badge&logo=numpy&logoColor=61DAFB
+[NumPy-url]: https://numpy.org/
