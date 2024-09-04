@@ -31,7 +31,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ClassicCollins/portfolio-optimization">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="80">
   </a>
 
 <h3 align="center">Portfolio-Optimization and Asset Allocation</h3>
@@ -87,6 +87,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
 
 ### Project Overview
