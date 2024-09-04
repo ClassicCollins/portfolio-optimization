@@ -19,6 +19,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+[![Traffic][traffic-shield]][traffic-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -251,6 +252,8 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
+[traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/graphs/traffic
 [contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
