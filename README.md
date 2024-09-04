@@ -246,6 +246,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 * [yfinace](https://pypi.org/project/yfinance)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [Google Colab](https://colab.research.google.com/)
+* [MIT License](https://opensource.org/license/mit)
 
   
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
