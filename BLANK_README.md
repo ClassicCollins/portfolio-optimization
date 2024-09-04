@@ -60,6 +60,8 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#Project Overview">Project Overview</a></li>
+        <li><a href="#Portfolio Composition">Portfolio Composition</a></li>
+        <li><a href="#Key Features">Key Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
