@@ -59,6 +59,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#Project Overview">Project Overview</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -86,11 +87,11 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
 
-## Project Overview
+### Project Overview
 This notebook demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
 Sounds good right :smile:
 
-## Portfolio Composition
+### Portfolio Composition
 Value Stocks:
 * `AMD` (Advanced Micro Devices, Inc.) - Technology
 * `GOOGL` (Alphabet Inc.) - Technology
@@ -100,7 +101,7 @@ Growth Stocks:
 * `MSFT` (Microsoft Corporation) - Technology
 * `NVDA` (NVIDIA Corporation) - Technology
 
-## Key Features
+### Key Features
 * `Markowitz Portfolio Optimization` : Calculation of the optimal asset weights for the portfolio to achieve the highest return for a given level of risk.
 * `Brute Force Method` : Exploration of portfolio allocation using a brute force approach to compare different combinations of asset weights.
 * `Efficient Frontier Visualization` : Visualization of the efficient frontier, illustrating the trade-off between risk and return in the portfolio.
@@ -218,7 +219,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE.txt` at the top for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
