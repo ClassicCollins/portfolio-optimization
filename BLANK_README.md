@@ -240,9 +240,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 
 * [Python](https://www.python.org)
 * [Img Shields](https://shields.io)
-* [GitHub Pages](https://pages.github.com)
 * [yfinace](https://pypi.org/project/yfinance)
-* [Choose an Open Source License](ttps://choosealicense.com)
 * [othneildrew](https://github.com/othneildrew/Best-README-Template)
 * [Google Colab](https://colab.research.google.com/)
 
@@ -253,7 +251,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization
 [contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [forks-url]: https://github.com/ClassicCollins/portfolio-optimization/network/members
