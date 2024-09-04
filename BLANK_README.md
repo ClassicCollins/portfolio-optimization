@@ -47,7 +47,7 @@
     <br />
     <a href="https://colab.research.google.com/drive/1cJMj_UVBenWTKLo85dWIJ8rvmMjklR3F?usp=sharing">View Demo</a>
     ·
-    <a href="https://github.com/ClassicCollins/portfolio-optimization/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/ClassicCollins/portfolio-optimization/blob/main/.github/ISSUE_TEMPLATE/bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/ClassicCollins/portfolio-optimization/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
