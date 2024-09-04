@@ -290,7 +290,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Pandas-url]: https://pandas.pydata.org/
 [NumPy-logo]: https://img.shields.io/badge/Numppy-20232A?style=for-the-badge&logo=numpy&logoColor=61DAFB
 [NumPy-url]: https://numpy.org/
-[Cvxpy-logo]: https://img.shields.io/badge/Cvxpy-20232A?style=for-the-badge&logo=cvxpy&logoColor=white
+[Cvxpy-logo]: https://img.shields.io/badge/Cvxpy-0769AD?style=for-the-badge&logo=cvxpy&logoColor=white
 [Cvxpy-url]: https://www.cvxpy.org/
 [Matplotlib-logo]: https://img.shields.io/badge/Matplotlib-red?style=for-the-badge&logo=matplotlib&logoColor=0769AD
 [Matplotlib-url]: https://matplotlib.org/ 
