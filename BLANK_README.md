@@ -298,5 +298,5 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Seaborn-url]: https://seaborn.pydata.org/
 [Pandas-DataReader-logo]: https://img.shields.io/badge/Pandas-DataReader-20232A?style=for-the-badge&logo=Pandas-DataReader&logoColor=61DAFB
 [Pandas-DataReader-url]: https://pandas-datareader.readthedocs.io/en/latest/
-[yfinance-logo]: https://img.shields.io/badge/yfinance-20232A?style=for-the-badge&logo=yfinace&logoColor=61DAFB
+[yfinance-logo]: https://img.shields.io/badge/Yfinance-0769AD?style=for-the-badge&logo=yfinance&logoColor=white
 [yfinance-url]:  https://pypi.org/project/yfinance/
