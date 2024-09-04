@@ -91,7 +91,7 @@
 This project focuses on constructing and optimizing a five-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries.
 
 ### Project Overview
-This notebook demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
+This project demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
 Sounds good right :smile:
 
 ### Portfolio Composition
@@ -133,7 +133,6 @@ Growth Stocks:
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
 ### Install Required Packages
@@ -255,7 +254,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/graphs/contributors
+[contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [forks-url]: https://github.com/ClassicCollins/portfolio-optimization/network/members
 [stars-shield]: https://img.shields.io/github/stars/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
