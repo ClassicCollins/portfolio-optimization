@@ -290,3 +290,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [Pandas-url]: https://pandas.pydata.org/
 [NumPy-logo]: https://img.shields.io/badge/Numppy-20232A?style=for-the-badge&logo=numpy&logoColor=61DAFB
 [NumPy-url]: https://numpy.org/
+[Cvxpy-logo]: https://img.shields.io/badge/Cvxpy-20232A?style=for-the-badge&logo=cvxpy&logoColor=61DAFB
+[Cvxpy-url]: https://www.cvxpy.org/
+[![Matplotlib][Matplotlib-logo]][Matplotlib-url]
+[![Seaborn][Seaborn-logo]][Seaborn-url]
+[![Pandas DataReader][Pandas-DataReader-logo]][Pandas-DataReader-url]
+[![yfinance][yfinance-logo]][yfinance-url]
