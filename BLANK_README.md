@@ -89,7 +89,24 @@ This project focuses on constructing and optimizing a four-asset portfolio, util
 ## Project Overview
 This notebook demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
 Sounds good right :smile:
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `ClassicCollins`, `portfolio-optimization`, `@ClassicCollins2`, `https://www.linkedin.com/in/collins-ugwuozor`, `email_client`, `ugwuozorcollinsemezie@gmail.com`, `Asset_allocation`, `This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries`
+
+## Portfolio Composition
+Value Stocks:
+* `AMD` (Advanced Micro Devices, Inc.) - Technology
+* `GOOGL` (Alphabet Inc.) - Technology
+* `PFE` (Pfizer Inc.) - Pharmaceuticals
+  
+Growth Stocks:
+* `MSFT` (Microsoft Corporation) - Technology
+* `NVDA` (NVIDIA Corporation) - Technology
+
+## Key Features
+* `Markowitz Portfolio Optimization` : Calculation of the optimal asset weights for the portfolio to achieve the highest return for a given level of risk.
+* `Brute Force Method` : Exploration of portfolio allocation using a brute force approach to compare different combinations of asset weights.
+* `Efficient Frontier Visualization` : Visualization of the efficient frontier, illustrating the trade-off between risk and return in the portfolio.
+`Asset Correlation Analysis` : Examination of the correlation between selected assets to understand the diversification benefits.
+
+: `ClassicCollins`, `portfolio-optimization`, `@ClassicCollins2`, `https://www.linkedin.com/in/collins-ugwuozor`, `email_client`, `ugwuozorcollinsemezie@gmail.com`, `Asset_allocation`, `This project focuses on constructing and optimizing a four-asset portfolio, utilizing a mix of value and growth stocks. The portfolio includes assets from both the technology and pharmaceutical industries`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
