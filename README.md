@@ -147,7 +147,7 @@ Ensure you have Python installed and then run:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/ClassicCollins/portfolio-optimization.git
    ```
 2. Install required packages
    ```sh
