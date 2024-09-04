@@ -114,7 +114,7 @@ Growth Stocks:
 
 ### Built With
 
-* [![Python][Python-logo]][ https://www.python.org/]
+* [![Python][Python-logo]][Python-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
@@ -278,3 +278,4 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
 [JQuery-url]: https://jquery.com
 [Python-logo]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=61DAFB
+[Python-url]: https://www.python.org/
