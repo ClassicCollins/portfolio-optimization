@@ -251,7 +251,7 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization
+[contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [forks-url]: https://github.com/ClassicCollins/portfolio-optimization/network/members
