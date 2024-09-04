@@ -34,7 +34,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ClassicCollins/portfolio-optimization">
-    <img src="images/logo.png" alt="Logo" width="150" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="200">
   </a>
 
 <h3 align="center">Portfolio-Optimization and Asset Allocation</h3>
