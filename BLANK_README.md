@@ -20,7 +20,8 @@
 -->
 
 
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Twitter][twitter-shield]][twitteer-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -255,6 +256,8 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
+[twitter-shield]: https://img.shields.io/badge/-X-black.svg?style=for-the-badge&logo=x&colorB=555
+[twitter-url]: https://x.com/ClassicCollins2
 [traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/traffic
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
