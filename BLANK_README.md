@@ -62,7 +62,7 @@
         <li><a href="#Project Overview">Project Overview</a></li>
         <li><a href="#Portfolio Composition">Portfolio Composition</a></li>
         <li><a href="#Key Features">Key Features</a></li>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#Tools and Libraries">Tools and Libraries</a></li>
       </ul>
     </li>
     <li>
@@ -115,7 +115,7 @@ Growth Stocks:
 
 
 
-### Built With
+### Tools and Libraries
 
 * [![Python][Python-logo]][Python-url]
 * [![Pandas][Pandas-logo]][Pandas-url]
