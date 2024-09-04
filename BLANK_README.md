@@ -252,10 +252,10 @@ Project Link: [https://github.com/ClassicCollins/portfolio-optimization](https:/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/graphs/traffic
 [contributors-shield]: https://img.shields.io/github/contributors/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [contributors-url]: https://github.com/ClassicCollins/portfolio-optimization/contributors
+[traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
+[traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/traffic
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [forks-url]: https://github.com/ClassicCollins/portfolio-optimization/network/members
 [stars-shield]: https://img.shields.io/github/stars/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
