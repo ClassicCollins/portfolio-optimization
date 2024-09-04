@@ -54,7 +54,6 @@
 </div>
 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Click Table of Contents</summary>
@@ -117,7 +116,6 @@ Growth Stocks:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Tools and Libraries
 
 * [![Python][Python-logo]][Python-url]
@@ -130,7 +128,6 @@ Growth Stocks:
 * [![yfinance][yfinance-logo]][yfinance-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
@@ -173,7 +170,7 @@ Ensure you have Python installed and then run:
 <!-- USAGE EXAMPLES -->
 ## Video Explanation
 
-_For explanation of Optimal portfolio and efficient frontier, please refer to the [YoutubeVideo](https://www.youtube.com/watch?v=vnAbsNN3SbA)_
+For more explanation on Portfolio optimization and Efficient frontier, please watch the [YoutubeVideo](https://www.youtube.com/watch?v=vnAbsNN3SbA)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -207,9 +204,6 @@ with the tag "enhancement". Don't forget to give the project a star! Thanks agai
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 <!-- LICENSE -->
