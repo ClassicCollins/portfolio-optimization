@@ -292,7 +292,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [NumPy-url]: https://numpy.org/
 [Cvxpy-logo]: https://img.shields.io/badge/Cvxpy-20232A?style=for-the-badge&logo=cvxpy&logoColor=white
 [Cvxpy-url]: https://www.cvxpy.org/
-[Matplotlib-logo]: https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=0769AD
+[Matplotlib-logo]: https://img.shields.io/badge/Matplotlib-white?style=for-the-badge&logo=matplotlib&logoColor=blue
 [Matplotlib-url]: https://matplotlib.org/ 
 [Seaborn-logo]: https://img.shields.io/badge/Seaborn-20232A?style=for-the-badge&logo=seaborn&logoColor=61DAFB
 [Seaborn-url]: https://seaborn.pydata.org/
