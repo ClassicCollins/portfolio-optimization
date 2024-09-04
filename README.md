@@ -75,7 +75,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Video explanation">Video Explanation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -171,11 +171,9 @@ Ensure you have Python installed and then run:
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Video Explanation
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For explanation of Optimal portfolio and efficient frontier, please refer to the [YoutubeVideo](https://www.youtube.com/watch?v=vnAbsNN3SbA)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
