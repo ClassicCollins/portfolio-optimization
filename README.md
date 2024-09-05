@@ -94,7 +94,7 @@ This project focuses on constructing and optimizing a five-asset portfolio, util
 
 ### Project Overview
 This project demonstrates the process of portfolio optimization using the Markowitz mean-variance optimization framework. The goal is to allocate investments across a portfolio of selected stocks to achieve the best possible balance between expected return and risk. 
-Sounds good right :smile:
+Sounds good right? :smile:
 
 ### Portfolio Composition
 Value Stocks:
@@ -259,7 +259,7 @@ This portfolio optimization and asset allocation project is for educational purp
 [traffic-shield]: https://img.shields.io/github/traffic/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [traffic-url]: https://github.com/ClassicCollins/portfolio-optimization/traffic
 [forks-shield]: https://img.shields.io/github/forks/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
-[forks-url]: https://github.com/ClassicCollins/portfolio-optimization/network/members
+[forks-url]: https://github.com/ClassicCollins/portfolio-optimization/forks
 [stars-shield]: https://img.shields.io/github/stars/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
 [stars-url]: https://github.com/ClassicCollins/portfolio-optimization/stargazers
 [issues-shield]: https://img.shields.io/github/issues/ClassicCollins/portfolio-optimization.svg?style=for-the-badge
