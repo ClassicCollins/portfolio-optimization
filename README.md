@@ -61,22 +61,22 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#project Overview">Project Overview</a></li>
-        <li><a href="#Portfolio Composition">Portfolio Composition</a></li>
-        <li><a href="#Key Features">Key Features</a></li>
-        <li><a href="#Tools and libraries">Tools and Libraries</a></li>
-        <li><a href="#steps and methodology">Steps and Methodology</a></li>
+        <li><a href="#project-Overview">Project Overview</a></li>
+        <li><a href="#Portfolio-Composition">Portfolio Composition</a></li>
+        <li><a href="#Key-Features">Key Features</a></li>
+        <li><a href="#Tools-and-libraries">Tools and Libraries</a></li>
+        <li><a href="#steps-and-methodology">Steps and Methodology</a></li>
         <li><a href="#results">Results</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
-        <li><a href="#Required Packages">Required Packages</a></li>
+        <li><a href="#Required-Packages">Required Packages</a></li>
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#video explanation">Video Explanation</a></li>
+    <li><a href="#video-explanation">Video Explanation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
