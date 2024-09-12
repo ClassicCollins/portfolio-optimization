@@ -129,7 +129,26 @@ Growth Stocks:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- STEPS and METHODOLOGY -->
+## Steps and Methodology
+* Data Collection: Retrieved historical stock price data for the selected assets using yfinance.
+* Markowitz Optimization:
+  Calculated expected returns, variances, and covariances of the assets.
+  Applied the Markowitz optimization model to determine the optimal asset allocation.
+* Efficient Frontier:
+  Plotted the efficient frontier to visualize the trade-off between portfolio risk and return.
+* Brute Force Method:
+  Implemented a brute force method to explore various combinations of asset allocations.
+  Compared the results with the Markowitz optimization.
+* Conclusion: Summarized the optimal portfolio composition and its expected performance.
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- RESULTS -->
+## Results
+The optimized portfolio achieved a balanced risk-return profile, with a diversified allocation across value and growth stocks in the tech and pharmaceutical sectors.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 ## Getting Started
 
