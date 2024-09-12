@@ -61,10 +61,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-        <li><a href="#Project Overview">Project Overview</a></li>
+        <li><a href="#project Overview">Project Overview</a></li>
         <li><a href="#Portfolio Composition">Portfolio Composition</a></li>
         <li><a href="#Key Features">Key Features</a></li>
-        <li><a href="#Tools and Libraries">Tools and Libraries</a></li>
+        <li><a href="#Tools and libraries">Tools and Libraries</a></li>
+        <li><a href="#steps and methodology">Steps and Methodology</a></li>
+        <li><a href="#results">Results</a></li>
       </ul>
     </li>
     <li>
@@ -74,7 +76,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#Video explanation">Video Explanation</a></li>
+    <li><a href="#video explanation">Video Explanation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -149,6 +151,7 @@ Growth Stocks:
 The optimized portfolio achieved a balanced risk-return profile, with a diversified allocation across value and growth stocks in the tech and pharmaceutical sectors.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -186,7 +189,7 @@ Ensure you have Python installed and then run:
 
 
 
-<!-- USAGE EXAMPLES -->
+<!-- VIDEO EXPLANATION -->
 ## Video Explanation
 
 For more explanation on Portfolio optimization and Efficient frontier, please watch the [YoutubeVideo](https://www.youtube.com/watch?v=vnAbsNN3SbA)
